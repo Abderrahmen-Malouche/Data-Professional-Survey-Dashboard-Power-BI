@@ -29,7 +29,8 @@ This Power BI project analyzes survey responses from 630 data professionals acro
 - Breaking into data is perceived as **neither easy nor difficult** by most respondents.
 
 ## Preview
-![Dashboard Screenshot](./Screenshot_Dashboard.jpg)
+
+![Screenshot_Dashboard](https://github.com/user-attachments/assets/8ca38640-468b-4f35-9bb0-bec3e5217181)
 
 ## How to Use
 1. Clone or download this repository.
